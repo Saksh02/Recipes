@@ -1,4 +1,4 @@
 # Recipes
 Life is dull without good food,
-this project helps to find easy food recipes.
-So, this project is totally html-based.
+this project helps to concise recipe of our favourite foods.
+Overall, it is completely a html-based webpage.
